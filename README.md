@@ -31,7 +31,7 @@ Para clonar e executar este projeto, siga os passos abaixo:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/JoaoM9081/Projeto1__PO.git
+   git clone https://github.com/Jotape148/Projeto_de_Banco_em_Java.git
 
 2. Certifique-se de que você tem o JDK instalado. Navegue até a pasta src e localize o arquivo `Main.java` dentro da pasta main.
 
